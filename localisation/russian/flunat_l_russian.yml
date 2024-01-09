@@ -1,6 +1,6 @@
 ﻿l_english:
  d_flunat: "Flusonian Nations"  <"Флузонианские нации">  #NT!
- d_flunat_desc: "There are many other nations on Flusion, ready to be conquered."  <"На Флюжене есть много других наций, готовых быть завоеванными.">  #NT!
+ d_flunat_desc: "There are many other nations on Flusion, ready to be conquered."  <"На Флюзионе есть много других наций, которые ждут, когда их завоюют.">  #NT!
   
   ###DIPLOMACY EVENTS### 
  flunat_get_lore: "Learn about their nation's history and culture."  <"Узнайте об истории и культуре своей страны.">  #NT!
